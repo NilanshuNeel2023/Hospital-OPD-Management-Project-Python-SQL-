@@ -16,6 +16,7 @@ This is a Intermediate level project using python Code & SQL Query(MySQL- Workbe
 # SQL
 1. Update
 2. Alter
+3. Concat
 
 # Final Outcome:
 When people arrive in the Hospital OPD they can registered themself, or if they want to book an appointment with their concerning doctor they can easily book it. The database for the Hospital it create automatically, which helpful for the analyz. 
