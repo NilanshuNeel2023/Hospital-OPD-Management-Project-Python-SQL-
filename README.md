@@ -24,8 +24,8 @@ The project also demonstrates how to integrate Python with SQL databases, perfor
 
 ## Technologies Used
 # Programming Language
-. Python
-. Database
+- Python
+- Database
 # MySQL
 
 ## Tools & Platforms:
