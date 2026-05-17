@@ -1,4 +1,4 @@
-# Hospital OPD Management System | Python & SQL
+# Hospital OPD Management System | Python + SQL
 
 A complete Hospital OPD Management System built using Python and SQL to simplify outpatient department operations. This project focuses on creating a smooth and efficient OPD token and appointment management system where patients can register themselves and book appointments with their preferred doctors.
 
@@ -6,7 +6,7 @@ The project also demonstrates how to integrate Python with SQL databases, perfor
 
 ## Project Overview
 
-# The main objective of this project is to digitize and streamline the hospital OPD process by:
+### The main objective of this project is to digitize and streamline the hospital OPD process by:
 
 1. Registering new patients.
 2. Generating OPD tokens automatically.
@@ -14,7 +14,7 @@ The project also demonstrates how to integrate Python with SQL databases, perfor
 4. Managing patient records efficiently.
 5. Storing hospital data in a structured SQL database.
 
-# This project is ideal for beginners and intermediate learners who want hands-on experience with:
+### This project is ideal for beginners and intermediate learners who want hands-on experience with:
 
 1. Python programming.
 2. SQL database connectivity.
@@ -23,23 +23,23 @@ The project also demonstrates how to integrate Python with SQL databases, perfor
 5. Real-world healthcare management systems.
 
 ## Technologies Used
-# Programming Language
+## Programming Language
 - Python
 - Database
-# MySQL
+- MySQL
 
 ## Tools & Platforms:
-1. Jupyter Notebook / Anaconda.
+1. Jupyter Notebook / Anaconda
 2. OR Google Colab.(Which ever Jupyter Note you choose)
-3. MySQL Workbench.
+3. MySQL Workbench
 
-## Python Concepts Used.
-1. Functions (def).
-2. Conditional Statements (if, else).
-3. String Manipulation (replace).
-4. Built-in Functions (max).
-5. Database Connectivity.
-6. Dynamic ID Generation.
+## Python Concepts
+1. Functions (def)
+2. Conditional Statements (if, else)
+3. String Manipulation (replace)
+4. Built-in Functions (max)
+5. Database Connectivity
+6. Dynamic ID Generation
 
 ## SQL Operations Used
 1. UPDATE
